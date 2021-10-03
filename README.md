@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Oscar Gemperle (@oscargemperle)
+- 👀 I’m interested in learning python to automate tasks using Ansible and other softwares.
+- 🌱 I’m currently learning Python 
+- 💞️ I’m looking to collaborate on... I'm starting on Python and at the moment I can't collaborate. But it is coming...
+- 📫 You can reach me on Twitter @ogemperle.
